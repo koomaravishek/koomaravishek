@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning SQL, Python(PANDAS, Numpy, Matplot, Seaboan), Advanced Excel and PowerBi
 - 💞️ I’m looking to collaborate on 🤔
-- 📫 How to reach me [...](https://www.linkedin.com/in/koomaravishek/)
+- 📫 How to reach me https://www.linkedin.com/in/koomaravishek
 - 😄 Pronouns: (he/him)
 - ⚡ Fun fact: 🤫
 
